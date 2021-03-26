@@ -1,0 +1,17 @@
+name: impact
+dependencies:
+    - jupyter
+    - jupyterlab
+    - ipykernel
+    - numpy
+    - pandas
+    - scipy
+    - matplotlib
+    - seaborn
+    - pandas-datareader
+    - openpyxl
+    - statsmodels
+    - scikit-learn
+    - pip
+    - pip:
+        - rdd
